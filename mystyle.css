@@ -1,0 +1,20 @@
+h1 {
+    color:lightsteelblue;
+    background-color: darkblue;
+    text-align: center;
+    font: bold 2.5em/2em Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    color: blue;
+    
+}
+
+
+
+body {
+    background-color: black;
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+}

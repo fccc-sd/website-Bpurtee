@@ -6,8 +6,19 @@ h1 {
 }
 
 
+h3 {
+    Color: Purple;
+    font: bold 2em ;
+}
 
 
+p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+section1{
+color: steelblue
+}
 
 body {
     background-color: black;

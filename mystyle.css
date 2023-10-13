@@ -1,0 +1,82 @@
+h1 {
+    color:lightsteelblue;
+    background-color: darkblue;
+    text-align: center;
+    font: bold 2.5em/2em Georgia, 'Times New Roman', Times, serif;
+}
+
+img
+{
+ vertical-align: middle;
+}
+
+ul
+{
+    list-style-type: disc;
+    list-style-position: inside;
+}
+
+
+h3 {
+    Color: Purple;
+    font: bold 2em ;
+}
+
+h2 {
+    color: gold;
+}
+
+p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+section1{
+color: steelblue
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+
+#importantThingtoKnow {
+    color: orangered;
+    font-weight: bold;
+}
+
+nav
+{
+    background-color: black;
+    line-height: 200%;
+    display: block;
+}
+
+nav li
+{
+    display: inline;
+    padding-right: 40px;
+    list-style-type: none;
+}
+
+nav a:link
+{
+    color:white;
+    text-decoration: none;
+}
+nav a:visited
+{
+    color:white;
+}
+
+nav a:hover
+{
+    text-decoration: underline;
+}
+nav a:active
+{
+    color: red;
+    text-decoration: underline;
+}
